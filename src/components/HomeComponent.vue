@@ -1,9 +1,6 @@
 <template>
     <div>
         <h1>ANY FOOD</h1>
-        <p>
-            Sarvar Added
-        </p>
     </div>
 </template>
 
