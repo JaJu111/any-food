@@ -1,6 +1,7 @@
 <template>
     <div>
         <h1>ANY FOOD</h1>
+        <p>New User</p>
     </div>
 </template>
 
