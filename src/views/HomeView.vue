@@ -1,6 +1,7 @@
 <template>
   <div>
     <HomeComponent />
+    <router-link to="/menu">menu</router-link>
   </div>
 </template>
 
