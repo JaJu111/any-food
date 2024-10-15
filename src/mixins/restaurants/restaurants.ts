@@ -13,8 +13,8 @@ export default class RestaurantsMixin extends Vue {
                 "lat": 51.5130793381364,
                 "lng": -0.139689445495605
             },
-            "headerImage": "https://course-react.javascript.ru/assets/header/sushi_5.jpg",
-            "logo": "https://course-react.javascript.ru/assets/thumb/sushi_5.jpg",
+            "headerImage": "../assets/header/sushi_5.jpg",
+            "logo": "../assets/thumb/sushi_5.jpg",
             "menu": [
                 "d75f762a-eadd-49be-8918-ed0daa8dd024",
                 "c3cb8f92-a2ed-4716-92a1-b6ea813e9049",
@@ -38,8 +38,8 @@ export default class RestaurantsMixin extends Vue {
                 "lat": 51.5184768470811,
                 "lng": -0.139996065347018
             },
-            "headerImage": "https://course-react.javascript.ru/assets/header/ribs_5.jpg",
-            "logo": "https://course-react.javascript.ru/assets/thumb/ribs_5.jpg",
+            "headerImage": "../assets/header/ribs_5.jpg",
+            "logo": "../assets/thumb/ribs_5.jpg",
             "menu": [
                 "25402233-0095-49ea-9939-1e67ed89ffb9",
                 "90902233-0095-49ea-9939-1e67ed89ffb9"
@@ -61,8 +61,8 @@ export default class RestaurantsMixin extends Vue {
                 "lat": 51.5136144563425,
                 "lng": -0.128496135992707
             },
-            "headerImage": "https://course-react.javascript.ru/assets/header/sushi_2.jpg",
-            "logo": "https://course-react.javascript.ru/assets/thumb/sushi_2.jpg",
+            "headerImage": "../assets/header/sushi_2.jpg",
+            "logo": "../assets/thumb/sushi_2.jpg",
             "menu": [
                 "08c9ffa0-d003-4310-9e15-20978743296e",
                 "64a4967c-2080-4a99-9074-4655a4569a95",
@@ -85,8 +85,8 @@ export default class RestaurantsMixin extends Vue {
                 "lat": 51.5108414674603,
                 "lng": -0.124092702110708
             },
-            "headerImage": "https://course-react.javascript.ru/assets/header/pizza_4.jpg",
-            "logo": "https://course-react.javascript.ru/assets/thumb/pizza_4.jpg",
+            "headerImage": "../assets/header/pizza_4.jpg",
+            "logo": "../assets/thumb/pizza_4.jpg",
             "menu": [
                 "6c02c2ce-b868-4191-b4a7-8686429f4bac",
                 "99bb6fbb-e53b-4b7e-b9c2-23b63b77385d"
